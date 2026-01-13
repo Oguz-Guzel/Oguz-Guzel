@@ -5,17 +5,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently working on **open source projects.**
-- 🌱 I’m currently learning **new frameworks and system architecture.**
-- 👯 I’m looking to collaborate on **innovative software solutions.**
-- 💬 Ask me about **Python or Machine Learning.**
-- 📫 How to reach me: **[https://www.linkedin.com/in/oguz-guzel/]**
+- I’m currently working on **open source projects.**
+- I’m currently learning **new frameworks and system architecture.**
+- I’m looking to collaborate on **innovative software solutions.**
+- Ask me about **Python or Machine Learning.**
+- How to reach me: **[https://www.linkedin.com/in/oguz-guzel/]**
 
 ---
 
-### 🛠 Languages & Tools
+### Languages & Tools
 
 <div align="left">
   <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> -->
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oguz-Guzel&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
