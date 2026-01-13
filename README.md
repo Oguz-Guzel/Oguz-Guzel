@@ -1,10 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Oğuz! 👋</h1>
   <p>A passionate software developer</p>
-  
-  <a href="https://github.com/Oguz-Guzel">
-    <img src="https://komarev.com/ghpvc/?username=Oguz-Guzel&style=flat-square&color=blue" alt="Profile views" />
-  </a>
 </div>
 
 ---
@@ -37,12 +33,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oguz-Guzel&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oguz-Guzel&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oguz-Guzel&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oguz-Guzel&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oguz-Guzel&theme=radical&hide_border=true" alt="streak graph" />
+  <a href="https://github.com/Oguz-Guzel">
+    <img src="https://komarev.com/ghpvc/?username=Oguz-Guzel&style=flat-square&color=blue" alt="Profile views" />
+  </a>
 </div>
+
