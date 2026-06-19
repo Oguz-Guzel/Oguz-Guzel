@@ -8,8 +8,8 @@
 
 ### About Me
 
-- **From Research to Production:** I spent years analyzing petabyte-scale data in experimental particle physics at CERN. Now, I translate that rigorous analytical mindset into scalable Machine Learning solutions.
-- **Current Focus:** Building end-to-end ML pipelines using **FastAPI**, **XGBoost**, and **Docker** with a focus on MLOps and cloud deployment.
+- **From Research to Production:** I spent years analyzing terabyte-scale data in experimental particle physics at CERN. Now, I translate that rigorous analytical mindset into scalable Machine Learning solutions.
+- **Current Focus:** Building end-to-end ML pipelines using **FastAPI** and **Docker** with a focus on efficient MLOps and cloud deployment.
 - **Efficiency Obsessed:** Using modern tooling like `uv` to build the fastest, most reproducible environments possible.
 - **Learning:** Advanced system architecture, Kubernetes, and Large Language Model (LLM) orchestration.
 - How to reach me: **[https://www.linkedin.com/in/oguz-guzel/]**
