@@ -9,8 +9,8 @@
 ### About Me
 
 - **From Research to Production:** I spent years analyzing terabyte-scale data in experimental particle physics at CERN. Now, I translate that rigorous analytical mindset into scalable Machine Learning solutions.
-- **Current Focus:** Building end-to-end ML pipelines using **FastAPI** and **Docker** with a focus on efficient MLOps and cloud deployment.
-- **Efficiency Obsessed:** Using modern tooling like `uv` to build the fastest, most reproducible environments possible.
+- **Current Focus:** Building end-to-end ML pipelines using **API**s and **Docker** with a focus on efficient MLOps and cloud deployment.
+- **Efficiency:** Using modern tooling like `uv` to build the fastest, most reproducible environments possible.
 - **Learning:** Advanced system architecture, Kubernetes, and Large Language Model (LLM) orchestration.
 - How to reach me: **[https://www.linkedin.com/in/oguz-guzel/]**
 
@@ -37,7 +37,7 @@
 
 ---
 ### 🚀 Featured Project
-- **CERN Model Live API Deployment:** An end-to-end production pipeline packaging a deep learning model into a containerized **FastAPI** service inside **Docker**, deployed live with automated workflows. Check out the [repository](https://github.com/Oguz-Guzel/fastapi-xgboost-deployment) and the API [https://oguz-guzel-hf-fastapi-xgboost-deployment.hf.space/docs](https://oguz-guzel-hf-fastapi-xgboost-deployment.hf.space/docs).
+- **Synthific – AI Synthetic Data Generator:** A zero-cost, high-speed synthetic data generation platform using **Google Gemini API** (`gemini-3.1-flash-lite`) for converting natural language prompts into structured tabular data schemas and `@faker-js/faker` for millisecond-scale bulk row synthesis. Built with **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**, automatically deployed via **Vercel** CI/CD. Check out the live app [https://synthific.vercel.app](https://synthific.vercel.app).
 
 ### GitHub Stats
 
