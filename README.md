@@ -17,6 +17,8 @@
 
 ### Core programming & Tools
 
+<!-- https://simpleicons.org/ -->
+
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -32,12 +34,15 @@
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-7FC8FF?style=for-the-badge&logo=langgraph&logoColor=white" />
 </div>
 
 ---
-### 🚀 Featured Project
+### Featured Projects
 - **Synthific – AI Synthetic Data Generator:** A zero-cost, high-speed synthetic data generation platform using **Google Gemini API** (`gemini-3.1-flash-lite`) for converting natural language prompts into structured tabular data schemas and `@faker-js/faker` for millisecond-scale bulk row synthesis. Built with **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**, automatically deployed via **Vercel** CI/CD. Check out the live app [https://synthific.vercel.app](https://synthific.vercel.app).
+  
+- **FastAPI XGBoost deployment:** End-to-end machine learning pipeline: training an XGBoost anomaly detection model and serving it via FastAPI and Docker; source code and live link at [https://github.com/Oguz-Guzel/fastapi-xgboost-deployment](github.com/fastapi-xgboost-deployment)
 
 ---
 ### Certification
