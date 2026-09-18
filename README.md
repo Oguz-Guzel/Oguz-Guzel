@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Oğuz! 👋</h1>
   <p><strong>Fundamental Research → Data Science & Machine Learning</strong></p>
-  <p>Building production-ready ML systems for complex data challenges.</p>
 </div>
 
 ---
