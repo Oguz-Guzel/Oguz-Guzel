@@ -53,10 +53,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oguz-Guzel&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  
+  <!--
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oguz-Guzel&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
-
+--->
 <br/>
 
 <div align="center">
