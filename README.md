@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Oğuz! </h1>
-  <p><strong>Experimental Particle Physics (HEP), Data Science and Machine Learning</strong></p>
+  <p><strong>Experimental Particle Physics (HEP-CERN/CMS), Data Science and Machine Learning</strong></p>
 </div>
 
 ### Core programming & Tools
